@@ -1,2 +1,3 @@
-# cursoFD
-apenas para o uso do curso.dev
+# curso.dev
+
+-->  Estudando com Filiope deschamps
